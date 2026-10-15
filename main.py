@@ -15,7 +15,7 @@ from pybricks.media.ev3dev import SoundFile, ImageFile
 # Create your objects here.
 ev3 = EV3Brick()
 
-#Hi
+
 
 
 # Write your program here.
